@@ -3,3 +3,4 @@ dist
 .jekyll
 .tmp
 .DS_Store
+.jekyll-cache
