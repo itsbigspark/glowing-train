@@ -4,7 +4,7 @@ const { resolve } = require("path")
 
 module.exports = function(env) {
   const dest = "site/"
-  const build = "dist/"
+  const build = "docs/"
   const isProduction = process.env.NODE_ENV === "production"
 
   return {
